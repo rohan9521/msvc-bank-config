@@ -1,6 +1,6 @@
 build: "8.0"
 loans:
-  message: "Welcome to loans related local APIs PROD profile"
+  message: "Welcome to loans related local APIs Production profile"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@abcbank.com"
