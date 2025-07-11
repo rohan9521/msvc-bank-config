@@ -1,6 +1,6 @@
 build: "5.0"
 cards:
-  message: "Welcome to cards related local APIs Production profile"
+  message: "Welcome to cards related local APIs PROD profile"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@abcbank.com"
