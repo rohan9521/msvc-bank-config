@@ -1,0 +1,9 @@
+build: "9.0"
+loans:
+  message: "Welcome to loans related local APIs QA profile"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@abcbank.com"
+  onCallSupport:
+    -(055)555-123
+    -(055)555-456

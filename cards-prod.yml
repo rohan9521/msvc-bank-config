@@ -1,0 +1,9 @@
+build: "5.0"
+cards:
+  message: "Welcome to cards related local APIs PROD profile"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@abcbank.com"
+  onCallSupport:
+    -(055)555-123
+    -(055)555-456
